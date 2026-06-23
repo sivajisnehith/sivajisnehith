@@ -1,16 +1,154 @@
-## Hi there 👋
+# Hi there 👋, I'm Sivaji Snehith
 
-<!--
-**sivajisnehith/sivajisnehith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Backend Developer | Security Enthusiast
 
-Here are some ideas to get you started:
+Building secure and scalable backend systems while exploring cybersecurity, application security, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Student specializing in Cybersecurity
+* 💻 Backend Developer passionate about building real-world systems
+* 🔐 Interested in Application Security, Security Monitoring, and Threat Detection
+* 🌱 Currently learning Java Backend Development, System Design, and DSA
+* 🐧 Linux enthusiast
+* 🎯 Goal: Become a Security-Focused Backend Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Go
+* C++
+* SQL
+
+### Backend
+
+* Spring Boot
+* REST APIs
+* Next.js
+
+### Databases
+
+* PostgreSQL
+* ClickHouse
+* SQLite
+
+### Tools & Platforms
+
+* Docker
+* Git
+* GitHub
+* Linux
+
+### Security
+
+* OWASP Top 10
+* Web Application Security
+* API Security
+* Networking Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 OpsFusion
+
+Cybersecurity Monitoring & Security Operations Platform
+
+**Tech Stack:** Go, PostgreSQL, ClickHouse
+
+* Centralized security monitoring platform
+* Security event collection and analysis
+* Alert management and threat visibility
+* High-performance analytics powered by ClickHouse
+* Designed for security operations workflows
+
+---
+
+### 🖨️ Xerox Getters
+
+Q-Commerce Platform
+
+* Connects customers, Xerox centers, and delivery partners
+* Order lifecycle management
+* Delivery workflow automation
+* Backend-focused architecture
+
+---
+
+### 🚚 Campus Mitra
+
+Student Delivery Platform
+
+**Tech Stack:** Next.js, PostgreSQL, Prisma, Docker
+
+* Authentication and authorization
+* Order management APIs
+* Delivery partner assignment system
+* Real-time order status tracking
+
+---
+
+### 📊 Startup Opportunity Aggregator
+
+* Aggregates startup opportunities from multiple sources
+* Automated data collection pipeline
+* Search and filtering capabilities
+* Backend API development
+
+---
+
+### 🎬 OTT Streaming Platform
+
+* Backend architecture for content delivery
+* User authentication and subscriptions
+* Content management system
+* Scalable media platform concepts
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Java Backend Development
+* Spring Boot
+* PostgreSQL Optimization
+* Docker
+* System Design
+* Application Security
+
+---
+
+## 🎯 2026 Goals
+
+* Complete Striver DSA Sheet
+* Build production-ready backend projects
+* Master Spring Boot
+* Learn Microservices Architecture
+* Contribute to Open Source
+* Deepen Application Security knowledge
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* LinkedIn: Add Your LinkedIn Profile
+* Email: Add Your Email
+
+---
+
+> Building secure systems, solving real-world problems, and continuously learning.
