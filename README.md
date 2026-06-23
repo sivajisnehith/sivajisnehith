@@ -137,17 +137,17 @@ Student Delivery Platform
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivajisnehith\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith\&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
-* LinkedIn: Add Your LinkedIn Profile
-* Email: Add Your Email
+* GitHub: https://github.com/sivajisnehith
+* LinkedIn: https://www.linkedin.com/in/sivaji-snehith-4704a3326/
+* Email: sivajisnehithchandolu@gmail.com
 
 ---
 
