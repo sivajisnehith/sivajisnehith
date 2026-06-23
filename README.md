@@ -136,12 +136,13 @@ Student Delivery Platform
 ---
 
 ## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivajisnehith\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivajisnehith&show_icons=true&theme=tokyonight" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith\&layout=compact)
-
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ## 🤝 Connect With Me
 
