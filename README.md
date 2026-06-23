@@ -1,67 +1,141 @@
-# Hi there 👋, I'm Sivaji Snehith
+<h1 align="center">Hi 👋, I'm Sivaji Snehith</h1>
 
-### Cybersecurity Student | Backend Developer | Security Enthusiast
+<h3 align="center">
+Cybersecurity Student • Backend Developer • Security Enthusiast
+</h3>
 
-Building secure, scalable backend systems and exploring distributed environments, appsec, and threat detection.
+<p align="center">
+Building secure backend systems, cybersecurity platforms, and scalable applications.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **Education:** B.Tech Student specializing in Cybersecurity
-* 🔐 **Focus:** Application Security, Security Monitoring, & Threat Detection
-* 🐧 **Environment:** Linux Enthusiast
-* 🎯 **Goal:** Becoming a Security-Focused Backend Engineer
+* 🎓 B.Tech Student specializing in Cybersecurity
+* 💻 Backend Developer passionate about scalable systems
+* 🔐 Interested in Application Security, Security Monitoring & Threat Detection
+* 🐧 Linux Enthusiast
+* 📚 Learning DSA, System Design & Backend Engineering
+* 🎯 Goal: Become a Security-Focused Backend Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, Go, C++, SQL, Python |
-| **Backend & DBs** | Spring Boot, REST APIs, PostgreSQL, ClickHouse, SQLite |
-| **Tools & Cloud** | Docker, Git, GitHub, Linux |
-| **Security** | OWASP Top 10, Web/API Security, Networking Fundamentals |
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔐 OpsFusion
-**Cybersecurity Monitoring & Security Operations Platform** *Tech Stack: Go, PostgreSQL, ClickHouse*
-* Centralized platform for security event collection, analysis, and real-time threat visibility.
-* High-performance analytics engine powered by ClickHouse for security operations workflows.
 
-### 🖨️ Xerox Getters & Campus Mitra
-**E-Commerce & Delivery Ecosystems** *Tech Stack: Next.js, PostgreSQL, Prisma, Docker, Java*
-* Automated multi-party loops connecting customers, service centers, and delivery partners.
-* Built real-time order lifecycle tracking, secure authentication pipelines, and assignment systems.
+Cybersecurity Monitoring & Security Operations Platform
 
-*More projects (OTT Backend, Startup Aggregator) can be found in my [Repositories tab](https://github.com/sivajisnehith?tab=repositories).*
+**Tech Stack:** Go, PostgreSQL, ClickHouse
+
+* Security event monitoring
+* Alert management
+* Log analytics
+* High-performance data processing
+* Security operations workflows
 
 ---
 
-## 📚 Currently Mastering (2026 Goals)
+### 🖨️ Xerox Getters
 
-* 📈 **DSA:** Completing Striver's DSA Sheet  
-* ☕ **Backend:** Advanced Spring Boot & Microservices Architecture  
-* 🐳 **DevOps & DB:** PostgreSQL Optimization & Docker  
+Q-Commerce platform connecting customers, Xerox centers, and delivery partners.
+
+* Order lifecycle management
+* Delivery workflow automation
+* Multi-role architecture
+
+---
+
+### 🚚 Campus Mitra
+
+Backend system for a student delivery platform.
+
+**Tech Stack:** Next.js, PostgreSQL, Prisma, Docker
+
+* Authentication & Authorization
+* Order Management APIs
+* Delivery Partner Assignment
+* Real-time Order Tracking
+
+---
+
+### 📊 Startup Opportunity Aggregator
+
+* Startup opportunity discovery platform
+* Automated data collection
+* Search & filtering system
+* Backend API development
+
+---
+
+### 🎬 OTT Streaming Platform
+
+* Content management
+* Authentication & subscriptions
+* Scalable backend architecture
+* Media delivery workflows
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivajisnehith&show_icons=true&theme=tokyonight" height="160em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith&layout=compact&theme=tokyonight" height="160em"/>
-</p>
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivajisnehith&show_icons=true&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith&layout=compact&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Connect With Me
 
-📬 **Email:** [sivajisnehithchandolu@gmail.com](mailto:sivajisnehithchandolu@gmail.com)  
-💼 **LinkedIn:** [sivaji-snehith-4704a3326](https://www.linkedin.com/in/sivaji-snehith-4704a3326/)  
+<p align="left">
+<a href="https://github.com/sivajisnehith">GitHub</a> •
+<a href="https://www.linkedin.com/in/sivaji-snehith-4704a3326/">LinkedIn</a> •
+<a href="mailto:sivajisnehithchandolu@gmail.com">Email</a>
+</p>
 
-> *Building secure systems, solving real-world problems, and continuously learning.*
+---
+
+<p align="center">
+<i>Building secure systems, solving real-world problems, and continuously learning.</i>
+</p>
