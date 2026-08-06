@@ -1,141 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sivaji Snehith</h1>
+<h1 align="center">Hey, I'm Sivaji 👋</h1>
 
-<h3 align="center">
-Cybersecurity Student • Backend Developer • Security Enthusiast
-</h3>
-
-<p align="center">
-Building secure backend systems, cybersecurity platforms, and scalable applications.
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Student specializing in Cybersecurity
-* 💻 Backend Developer passionate about scalable systems
-* 🔐 Interested in Application Security, Security Monitoring & Threat Detection
-* 🐧 Linux Enthusiast
-* 📚 Learning DSA, System Design & Backend Engineering
-* 🎯 Goal: Become a Security-Focused Backend Engineer
-
----
-
-## 🛠️ Tech Stack
+<h3 align="center">Cyber Security undergrad who'd rather be shipping backends</h3>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://github.com/sivajisnehith"><img src="https://img.shields.io/github/followers/sivajisnehith?label=Follow&style=social" /></a>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### About me
 
-### 🔐 OpsFusion
+I'm a pre-final year B.Tech student at VIT Amaravati, majoring in Cyber Security (CGPA 8.71, no backlogs). Most of my time outside coursework goes into building backend systems and full-stack products — order platforms, streaming pipelines, delivery apps — the kind of stuff that actually breaks in interesting ways once real users touch it.
 
-Cybersecurity Monitoring & Security Operations Platform
+I lean heavily on AI coding tools (Claude, Copilot, Cursor) to move faster, but the architecture, the debugging, and the "why is this API returning 500" decisions are still on me.
 
-**Tech Stack:** Go, PostgreSQL, ClickHouse
+- 🎓 B.Tech Cyber Security, VIT-AP University (2024–2028)
 
-* Security event monitoring
-* Alert management
-* Log analytics
-* High-performance data processing
-* Security operations workflows
+- 🛠️ Currently building distributed systems and Q-commerce backends
 
----
+- 🏆 Ranked 32nd out of 500+ teams at a national hackathon hosted by IIT Madras
 
-### 🖨️ Xerox Getters
-
-Q-Commerce platform connecting customers, Xerox centers, and delivery partners.
-
-* Order lifecycle management
-* Delivery workflow automation
-* Multi-role architecture
+- 📫 Reach me at sivajisnehithchandolu@gmail.com
 
 ---
 
-### 🚚 Campus Mitra
+### Things I've built
 
-Backend system for a student delivery platform.
+**[Xerox-Getters](https://github.com/sivajisnehith)** — Blinkit-style Q-commerce backend in Spring Boot
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma, Docker
+A layered Controller → Service → Repository backend handling order placement, printing workflow, and delivery dispatch across three user roles. Handles up to 500 concurrent orders at sub-200ms average response time, with role-based delivery eligibility checks and full event-logging for order traceability.
 
-* Authentication & Authorization
-* Order Management APIs
-* Delivery Partner Assignment
-* Real-time Order Tracking
+`Java` `Spring Boot` `MySQL`
 
----
+**[StreamForge](https://github.com/sivajisnehith)** — Distributed video processing platform
 
-### 📊 Startup Opportunity Aggregator
+Decouples video ingestion from processing using RabbitMQ, so transcoding doesn't block uploads. Runs FFmpeg to generate adaptive multi-bitrate HLS playlists (360p–1080p), pulls metadata via FFprobe, and stores everything in MinIO. Cut manual transcoding time by 60% and handles videos up to 30 minutes long. JWT-secured APIs plus a Next.js dashboard for monitoring and playback.
 
-* Startup opportunity discovery platform
-* Automated data collection
-* Search & filtering system
-* Backend API development
+`Java` `Spring Boot` `RabbitMQ` `FFmpeg` `PostgreSQL` `MinIO` `Next.js`
 
----
+**[Catering-ops](https://github.com/sivajisnehith)** — Multi-tenant catering operations platform
 
-### 🎬 OTT Streaming Platform
+Built for real catering businesses to run orders, deliveries, payments, and staff in one place. Supports three delivery modes (direct assignment, open claim, bidding) with live staff tracking via Geolocator and Supabase Realtime — tested at 50+ concurrent staff with under 5-second location update latency. Row Level Security enforces company-level data isolation, and push notifications go through server-side Edge Functions so no secrets touch the client.
 
-* Content management
-* Authentication & subscriptions
-* Scalable backend architecture
-* Media delivery workflows
+`Flutter` `Supabase` `PostgreSQL`
 
 ---
 
-## 📈 GitHub Stats
+### Stack
 
-<table>
-<tr>
-<td>
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivajisnehith&show_icons=true&theme=tokyonight"/>
+Java · Python · Dart · SQL · C++ · TypeScript
 
-</td>
+**Frameworks**
 
-<td>
+Spring Boot · Flutter · Next.js · Prisma
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisnehith&layout=compact&theme=tokyonight"/>
+**Data & Cloud**
 
-</td>
-</tr>
-</table>
+PostgreSQL · MySQL · Supabase · Firebase · AWS (EC2, S3)
+
+**Tooling**
+
+Docker · Docker Compose · GitHub Actions · Linux · REST APIs · RBAC
+
+**CS Fundamentals**
+
+DSA · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
 
-## 🤝 Connect With Me
+## TechStack
 
-<p align="left">
-<a href="https://github.com/sivajisnehith">GitHub</a> •
-<a href="https://www.linkedin.com/in/sivaji-snehith-4704a3326/">LinkedIn</a> •
-<a href="mailto:sivajisnehithchandolu@gmail.com">Email</a>
-</p>
+![Skills](https://skillicons.dev/icons?i=java,spring,flutter,nextjs,postgresql,mysql,docker,aws)
 
 ---
 
 <p align="center">
-<i>Building secure systems, solving real-world problems, and continuously learning.</i>
+
+  <i>Open to backend/full-stack internships — feel free to reach out.</i>
+
 </p>
+
+
+
+give me one final one 
