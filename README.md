@@ -83,7 +83,3 @@ DSA · OOP · DBMS · Operating Systems · Computer Networks
   <i>Open to backend/full-stack internships — feel free to reach out.</i>
 
 </p>
-
-
-
-give me one final one 
